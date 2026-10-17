@@ -1,0 +1,9 @@
+# TaskBar Launcher - list of apps to open with ONE click.
+# Each line below is a program path, a folder, or a website URL.
+# Lines starting with # are comments and are ignored.
+# Edit this file by hand, or use:  launcher.pyw --edit
+
+[Work]
+"C:\Program Files\App\app.exe" --flag
+https://mail.google.com
+%SystemRoot%\system32\calc.exe
